@@ -10,7 +10,7 @@ import Resume from './Resume';
 function App() {
   return (
    <BrowserRouter>
-      <Route exact path='/' component={Home} />
+      <Route exact path='/host' component={Home} />
       <Route exact path='/resume' component={Resume} />
    </BrowserRouter>
   );
