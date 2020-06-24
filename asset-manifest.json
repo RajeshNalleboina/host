@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/host/index.html/static/css/main.5f361e03.chunk.css",
-    "main.js": "/host/index.html/static/js/main.aa19fe10.chunk.js",
-    "main.js.map": "/host/index.html/static/js/main.aa19fe10.chunk.js.map",
-    "runtime-main.js": "/host/index.html/static/js/runtime-main.1bae861f.js",
-    "runtime-main.js.map": "/host/index.html/static/js/runtime-main.1bae861f.js.map",
-    "static/js/2.ae58fdd0.chunk.js": "/host/index.html/static/js/2.ae58fdd0.chunk.js",
-    "static/js/2.ae58fdd0.chunk.js.map": "/host/index.html/static/js/2.ae58fdd0.chunk.js.map",
-    "index.html": "/host/index.html/index.html",
-    "precache-manifest.2265e7ec7dc691d9f2c5b947392be17f.js": "/host/index.html/precache-manifest.2265e7ec7dc691d9f2c5b947392be17f.js",
-    "service-worker.js": "/host/index.html/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/host/index.html/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.ae58fdd0.chunk.js.LICENSE.txt": "/host/index.html/static/js/2.ae58fdd0.chunk.js.LICENSE.txt",
-    "static/media/profile.svg": "/host/index.html/static/media/profile.6f88fc6b.svg"
+    "main.css": "/host/static/css/main.5f361e03.chunk.css",
+    "main.js": "/host/static/js/main.c3b5cca6.chunk.js",
+    "main.js.map": "/host/static/js/main.c3b5cca6.chunk.js.map",
+    "runtime-main.js": "/host/static/js/runtime-main.ca07c9bf.js",
+    "runtime-main.js.map": "/host/static/js/runtime-main.ca07c9bf.js.map",
+    "static/js/2.ae58fdd0.chunk.js": "/host/static/js/2.ae58fdd0.chunk.js",
+    "static/js/2.ae58fdd0.chunk.js.map": "/host/static/js/2.ae58fdd0.chunk.js.map",
+    "index.html": "/host/index.html",
+    "precache-manifest.c3f0557266b7edf2307f986049b27edd.js": "/host/precache-manifest.c3f0557266b7edf2307f986049b27edd.js",
+    "service-worker.js": "/host/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/host/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ae58fdd0.chunk.js.LICENSE.txt": "/host/static/js/2.ae58fdd0.chunk.js.LICENSE.txt",
+    "static/media/profile.svg": "/host/static/media/profile.6f88fc6b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1bae861f.js",
+    "static/js/runtime-main.ca07c9bf.js",
     "static/js/2.ae58fdd0.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.aa19fe10.chunk.js"
+    "static/js/main.c3b5cca6.chunk.js"
   ]
 }
